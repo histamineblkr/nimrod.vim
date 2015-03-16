@@ -29,7 +29,7 @@ install `nimrod.vim`.  Do this in your Terminal so that you get the
 
     mkdir -p ~/.vim/autoload ~/.vim/bundle; \
     curl -so ~/.vim/autoload/pathogen.vim \
-        https://raw.github.com/tpope/vim-pathogen/master/autoload/pathogen.vim
+        https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim
 
 Next you *need to add this* to your `~/.vimrc`:
 
